@@ -157,7 +157,7 @@ let jwt_token = jwt.sign(
 ## Примерная структура проекта
 
 ```
-ws-chat/
+ws-chat-service/
 ├── node_modules/
 ├── ws-service/
 |   ├── client.js                           # Пример клиента в терминале
