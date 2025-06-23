@@ -165,6 +165,7 @@ ws-chat-service/
 |   └── generating_token_for_testing.js     # Скрипт для тестирования
 ├── package-lock.json
 ├── package.json
+├── specification-protocol.md               # Протокол спецификации
 └── README.md
 ```
 
